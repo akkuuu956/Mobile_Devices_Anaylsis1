@@ -8,10 +8,10 @@ Exploring the current landscape of mobile devices in 2023, highlighting key insi
 1. **Operating Systems:** Android dominates with a 68% market share, followed by iOS at 16%. Limited 5G adoption at 17%.
 2. **Brand Landscape:** Apple leads with a 17% market share, followed by Samsung, realme, and Redmi. Majority with 128GB (40%) or 64GB (22%) storage.
 3. **Camera Resolutions:** 16MP most common for selfie cameras (25%). Rear camera resolutions vary.
-4. **Battery Capacities:** 68% have 3001-4000mAh batteries. Few with batteries under 2000mAh.
+4. **Battery Capacities:** 68% have 4001-5000mAh batteries. Few with batteries under 2000mAh.
 
 🚀 **Summary:**
-The mobile landscape in 2023 is dominated by Android OS, with Apple leading among individual brands. Devices offer ample storage and diverse camera capabilities. 5G adoption is growing, and most phones have battery capacities in the 3000-4000mAh range.
+The mobile landscape in 2023 is dominated by Android OS, with Apple leading among individual brands. Devices offer ample storage and diverse camera capabilities. 5G adoption is growing, and most phones have battery capacities in the 4001-5000mAh range.
 
 🌐 **#MobileDevices #TechTrends #MarketAnalysis #LinkedInUpdate #2023TechInsights**
 
